@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><ServiceProvider>
   <ApplicationName>demo_prompt_new</ApplicationName>
-  <Description>$descriptionNew</Description>
+  <Description>This is description</Description>
   <InboundAuthenticationConfig>
     <InboundAuthenticationRequestConfigs>
       <InboundAuthenticationRequestConfig>
