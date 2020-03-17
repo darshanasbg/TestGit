@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><ServiceProvider>
-  <ApplicationName>superSP</ApplicationName>
+  <ApplicationName>superDoubleSP</ApplicationName>
   <Description/>
   <JwksUri/>
   <InboundAuthenticationConfig>
     <InboundAuthenticationRequestConfigs>
       <InboundAuthenticationRequestConfig>
-        <InboundAuthKey>superSP</InboundAuthKey>
+        <InboundAuthKey>superDoubleSP</InboundAuthKey>
         <InboundAuthType>passivests</InboundAuthType>
         <InboundConfigType>standardAPP</InboundConfigType>
         <Properties/>
       </InboundAuthenticationRequestConfig>
       <InboundAuthenticationRequestConfig>
-        <InboundAuthKey>superSP</InboundAuthKey>
+        <InboundAuthKey>superDoubleSP</InboundAuthKey>
         <InboundAuthType>openid</InboundAuthType>
         <InboundConfigType>standardAPP</InboundConfigType>
         <Properties/>
