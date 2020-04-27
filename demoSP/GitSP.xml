@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><ServiceProvider>
-  <ApplicationName>GitSP</ApplicationName>
+<?xml version="1.0" encoding="UTF-8"?>
   <Description/>
   <JwksUri/>
-  <InboundAuthenticationConfig>
+
     <InboundAuthenticationRequestConfigs>
       <InboundAuthenticationRequestConfig>
         <InboundAuthKey>ZkvCKwfTSsdHLNfU_HlAc4aNbe0a</InboundAuthKey>
