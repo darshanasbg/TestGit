@@ -10,9 +10,6 @@
         <InboundConfigType>standardAPP</InboundConfigType>
         <inboundConfiguration><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oAuthAppDO>
-    <oauthConsumerKey>ZkvCKwfTSsdHLNfU_HlAc4aNbe0a</oauthConsumerKey>
-    <oauthConsumerSecret>DKf0E4WDxPTMLL8BNn_0rZ738tsa</oauthConsumerSecret>
-    <applicationName>GitSP</applicationName>
     <callbackUrl>||\\\</callbackUrl>
     <oauthVersion>OAuth-2.0</oauthVersion>
     <grantTypes>refresh_token urn:ietf:params:oauth:grant-type:saml2-bearer implicit password client_credentials iwa:ntlm urn:ietf:params:oauth:grant-type:device_code authorization_code urn:ietf:params:oauth:grant-type:uma-ticket account_switch urn:ietf:params:oauth:grant-type:jwt-bearer </grantTypes>
