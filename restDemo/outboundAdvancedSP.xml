@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><ServiceProvider>
-  <ApplicationName>outboundAdvancedSP</ApplicationName>
+  <ApplicationName>outboundAdvancedSP</ApplicationName
   <Description/>
   <JwksUri/>
   <InboundAuthenticationConfig>
@@ -10,9 +10,6 @@
         <InboundConfigType>standardAPP</InboundConfigType>
         <inboundConfiguration><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oAuthAppDO>
-    <oauthConsumerKey>TJ9oSLlPv9tDw0IVRKfyMWXqEs4a</oauthConsumerKey>
-    <oauthConsumerSecret>PFBbdlu5mIdef8pxTttnSqEOQLAa</oauthConsumerSecret>
-    <applicationName>outboundAdvancedSP</applicationName>
     <callbackUrl>https://localhost:9443/t/thumi</callbackUrl>
     <oauthVersion>OAuth-2.0</oauthVersion>
     <grantTypes>refresh_token urn:ietf:params:oauth:grant-type:saml2-bearer implicit password client_credentials iwa:ntlm urn:ietf:params:oauth:grant-type:device_code authorization_code urn:ietf:params:oauth:grant-type:uma-ticket account_switch urn:ietf:params:oauth:grant-type:jwt-bearer </grantTypes>
